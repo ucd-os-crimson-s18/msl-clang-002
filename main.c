@@ -1,6 +1,7 @@
 // Operating Systems: CSCI 3453
 // Program Assignment 1: C
 // Jeff McMillan, Eric Holguin
+#include "test_suite.h"
 
 
 #include <stdio.h>
